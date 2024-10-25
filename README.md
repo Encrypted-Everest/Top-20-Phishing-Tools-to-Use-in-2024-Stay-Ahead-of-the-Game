@@ -1,0 +1,2 @@
+# Top-20-Phishing-Tools-to-Use-in-2024-Stay-Ahead-of-the-Game
+Phishing attacks are one of the most common cyber threats, and the tools used to conduct them have evolved to become more sophisticated. Here’s You should be aware of in 2024. From **SEToolkit** to **PyPhisher**, these tools cover a wide range of phishing attack vectors, including social engineering, email phishing, and even QR code hijacking. 
