@@ -1,6 +1,6 @@
 ### 🌟 **Top Phishing Tools for 2024** 🛠️
 
-![Phishing Tools](https://media.tenor.com/SRy6HR5ibvsAAAAM/phishing-phisher.gif)
+![Phishing Tools]([https://media.tenor.com/SRy6HR5ibvsAAAAM/phishing-phisher.gif](https://cdn.glitch.com/5975523e-6b65-47f8-9861-17f774ef4f18%2FCyber-News-Rundown_PhishingEmail_800x4001.gif?1556637111264))
 
 1. **[Setoolkit](https://github.com/trustedsec/social-engineer-toolkit)** - The go-to toolkit for social engineering and phishing simulations.
 2. **[Evilginx2](https://github.com/kgretzky/evilginx)** - A man-in-the-middle attack tool that captures login credentials.
